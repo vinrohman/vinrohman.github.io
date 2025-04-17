@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "co.teraglobal.patrons",
+      "package_name": "co.teraglobal.patrons",
+      "sha256_cert_fingerprints": [
+        "7B:C7:C3:DB:A8:22:0A:B5:42:E0:B8:B2:A5:39:7D:2B:23:7F:34:39:32:B3:78:BE:07:5B:78:9B:1C:E4:46:57"
+      ]
+    }
+  }
+]
