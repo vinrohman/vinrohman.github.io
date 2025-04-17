@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app",
+      "namespace": "co.teraglobal.patrons",
       "package_name": "co.teraglobal.patrons.dev",
       "sha256_cert_fingerprints": [
         "15:25:57:28:10:DA:E5:9B:ED:C1:8C:08:55:BA:34:72:0E:7D:ED:3D:21:87:62:50:B8:B7:51:DC:A8:2F:F8:65"
